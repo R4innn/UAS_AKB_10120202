@@ -4,7 +4,7 @@
             "outputFile": "com.NotesUAS_10120202.app-mergeDebugResources-51:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "H:\\UAS-AKB-IF2-10120067-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "H:\\UAS-AKB-IF5-10120202\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

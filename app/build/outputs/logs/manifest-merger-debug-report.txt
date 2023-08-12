@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Rian\.gradle\caches\transforms-3\3c273eef98cbb54a83daca9d795915fe\transformed\viewbinding-7.4.1\AndroidManifest.xml:2:1-7:12
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Rian\.gradle\caches\transforms-3\c0c6cb9e0bda420c15a9237455f2c608\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Rian\.gradle\caches\transforms-3\5c9f53f75ff0dea605f57e45f714f749\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
@@ -84,25 +84,25 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rian\.gradle\caches
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rian\.gradle\caches\transforms-3\718fd56fece7b401d9924aebc6241f7d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rian\.gradle\caches\transforms-3\676ab4ac1a33cc01fbf78ff56dd5a25f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Rian\.gradle\caches\transforms-3\5003af1c83f6e2d42b842b43ec177a21\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:5:5-38:19
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:5:5-38:19
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Rian\.gradle\caches\transforms-3\c0c6cb9e0bda420c15a9237455f2c608\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Rian\.gradle\caches\transforms-3\c0c6cb9e0bda420c15a9237455f2c608\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Rian\.gradle\caches\transforms-3\c80edab9fb6109efc7ad0a1d16da5611\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
@@ -148,71 +148,71 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rian\.gradle\cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\Rian\.gradle\caches\transforms-3\9182374afb30fdc34f2dd6ed8d9283df\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.NotesUAS_10120202.view.activity.EditNoteActivity
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:12:9-14:40
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:14:13-37
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:13:13-80
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:13:13-80
 activity#com.NotesUAS_10120202.view.activity.RegisterActivity
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:15:9-17:40
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:16:13-80
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:16:13-80
 activity#com.NotesUAS_10120202.view.activity.LoginActivity
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:18:9-20:40
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:19:13-77
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:19:13-77
 activity#com.NotesUAS_10120202.view.activity.AddNoteActivity
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:21:9-23:68
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:21:9-23:68
 	android:theme
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:23:13-65
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:22:13-79
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:22:13-79
 activity#com.NotesUAS_10120202.view.activity.MainActivity
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:24:9-85
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:24:9-85
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:24:19-82
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:24:19-82
 activity#com.NotesUAS_10120202.view.activity.SplashActivity
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:25:9-33:20
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:25:9-33:20
 	android:exported
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:26:13-78
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:26:13-78
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:31:27-74
 meta-data#preloaded_fonts
-ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:35:9-37:57
+ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:35:9-37:57
 	android:resource
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:37:13-54
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:37:13-54
 	android:name
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml:36:13-43
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml:36:13-43
 uses-sdk
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Rian\.gradle\caches\transforms-3\3c273eef98cbb54a83daca9d795915fe\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Rian\.gradle\caches\transforms-3\3c273eef98cbb54a83daca9d795915fe\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Rian\.gradle\caches\transforms-3\c0c6cb9e0bda420c15a9237455f2c608\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
@@ -373,18 +373,18 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rian\.gradle\caches\transf
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rian\.gradle\caches\transforms-3\676ab4ac1a33cc01fbf78ff56dd5a25f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Rian\.gradle\caches\transforms-3\5003af1c83f6e2d42b842b43ec177a21\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Rian\.gradle\caches\transforms-3\5003af1c83f6e2d42b842b43ec177a21\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Rian\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		ADDED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
-		INJECTED from H:\UAS-AKB-IF2-10120067-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		ADDED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
+		INJECTED from H:\UAS-AKB-IF5-10120202\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from [com.firebaseui:firebase-ui-database:8.0.0] C:\Users\Rian\.gradle\caches\transforms-3\b0184c51ef24eea13ea4d6e6f7654cd2\transformed\firebase-ui-database-8.0.0\AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Rian\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
