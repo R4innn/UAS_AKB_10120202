@@ -52,4 +52,4 @@ public class InfoFragment extends Fragment {
         viewPager.setAdapter(pagerAdapter);
     }
 }
-
+//10120202 - Rian Fahrizal - IF5

@@ -128,3 +128,4 @@ public class NoteFragment extends Fragment  {
 
 }
 
+//10120202 - Rian Fahrizal - IF5

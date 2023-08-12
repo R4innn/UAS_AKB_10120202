@@ -85,4 +85,4 @@ public class MainActivity extends AppCompatActivity {
         return false;
     }
 }
-
+//10120202 - Rian Fahrizal - IF5

@@ -68,3 +68,4 @@ public class NoteAdapter extends FirebaseRecyclerAdapter<Note, NoteAdapter.NoteV
     }
 }
 
+//10120202 - Rian Fahrizal - IF5

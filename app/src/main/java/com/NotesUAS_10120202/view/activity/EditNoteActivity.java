@@ -129,3 +129,4 @@ public class EditNoteActivity extends AppCompatActivity {
         return formattedDate;
     }
 }
+//10120202 - Rian Fahrizal - IF5

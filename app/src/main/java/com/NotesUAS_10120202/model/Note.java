@@ -84,10 +84,4 @@ public class Note implements Parcelable {
     }
 }
 
-/**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah  : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
- */
+//10120202 - Rian Fahrizal - IF5

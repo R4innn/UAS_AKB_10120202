@@ -21,3 +21,4 @@ public class InfoFragment2 extends Fragment {
     }
 }
 
+//10120202 - Rian Fahrizal - IF5

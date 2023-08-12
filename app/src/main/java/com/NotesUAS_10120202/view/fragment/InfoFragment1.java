@@ -19,4 +19,4 @@ public class InfoFragment1 extends Fragment {
         return rootView;
     }
 }
-
+//10120202 - Rian Fahrizal - IF5

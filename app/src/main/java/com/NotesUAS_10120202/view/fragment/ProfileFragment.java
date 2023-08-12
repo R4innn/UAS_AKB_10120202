@@ -73,4 +73,4 @@ public class ProfileFragment extends Fragment {
         requireActivity().finish();
     }
 }
-
+//10120202 - Rian Fahrizal - IF5

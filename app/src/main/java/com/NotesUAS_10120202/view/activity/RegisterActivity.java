@@ -75,3 +75,4 @@ public class RegisterActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
+//10120202 - Rian Fahrizal - IF5

@@ -32,4 +32,4 @@ public class SplashActivity extends AppCompatActivity {
         }, 3000L);
     }
 }
-
+//10120202 - Rian Fahrizal - IF5
